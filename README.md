@@ -1,6 +1,7 @@
 # ER Simulator
 
 **PREZENTAREA CLASELOR SI A METODELOR**
+
 Proiectul pe care l-am realizat, este compus, pe langa cele clasele din schelet,
 din inca 10 clase pe care mi le-am definit in vederea implementarii simulatorului.
 Aceste clase sunt:
@@ -79,8 +80,8 @@ trebuie spitalizat sau trebuie operat.
 
 ***4. Nurse --> clasa in care sunt retinute datele asistentelor si metodele lor***
 
-* calculateUrgency - calculeaza gradul de urgenta al unui pacient din Triage Queue;
-* treatPatients - administreaza tratamentul tuturor pacientilor
+* *calculateUrgency* - calculeaza gradul de urgenta al unui pacient din Triage Queue;
+* *treatPatients* - administreaza tratamentul tuturor pacientilor
 pe care ii are in grija si le calculeaza numarul de runde de spitalizare ramase;
 
 
