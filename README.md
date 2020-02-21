@@ -7,7 +7,7 @@ Aceste clase sunt:
 
 ***1. Main --> Cea mai importanta clasa din program***
 
-* Aici se realizeaza citirea dinfisier si desfasurarea simularii.
+* Aici se realizeaza citirea din fisier si desfasurarea simularii.
 * Dupa citirea din fisier, doctorii sunt salvati intr-o lista auxiliara 
 folosita de ERObserver pentru afisarea rezultatelor simularii in fiecare runda;
 * Pentru fiecare runda, patientii care sosesc in spital sunt adaugati in Triage Queue;
